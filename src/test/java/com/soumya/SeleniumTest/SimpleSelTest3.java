@@ -28,7 +28,7 @@ driver = new ChromeDriver(options);
    
    //Implicit wait, wait for at least some time (10 sec) to identify an element, //if can't find the element with in 10
    
-   driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+   driver.manage().timeouts().implicitlyWait(1000, TimeUnit.SECONDS);
    //open the url or AUT
    driver.get("http://newtours.demoaut.com/");
    //Click on the register link:
