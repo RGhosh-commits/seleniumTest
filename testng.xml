@@ -5,6 +5,7 @@
 		<classes>
 			<class name="com.soumya.SeleniumTest.SimpleSelTest"/>
 			<class name="com.soumya.SeleniumTest.SimpleSelTest2"/>
+			<class name="com.soumya.SeleniumTest.SimpleSelTest3"/>
 		</classes>
 	</test>
 	
