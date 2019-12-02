@@ -36,7 +36,7 @@ public class SimpleSelTest {
 	    driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS); 
 	 
 	    //open the url or AUT 
-	    driver.get("https://www.makemytrip.com/");
+	    driver.get("https://aws.amazon.com/");
 	    
 	    driver.quit();
 	}
